@@ -1,4 +1,4 @@
-**SONAR Rock vs Mine Prediction**
+# SONAR Rock vs Mine Prediction
 
 - **Description:** A small classification project using the Sonar dataset to distinguish rocks from metal mines. The analysis and modeling are contained in the notebook `Rock vs Mine Prediction.ipynb` and the dataset is `sonar data.csv`.
 
@@ -39,4 +39,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 **Notes & Next steps**
 - You can try additional models, cross-validation, feature selection, or hyperparameter tuning to improve performance.
+
 
