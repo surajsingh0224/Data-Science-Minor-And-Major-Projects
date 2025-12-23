@@ -1,4 +1,4 @@
-# IPL Data Analysis
+# IPL DATA ANALYSIS
 
 A concise exploratory data analysis and notebook project analyzing Indian Premier League (IPL) data.
 
@@ -46,5 +46,6 @@ Key findings and plots are shown inside `IPL Project.ipynb`. You can export figu
 
 ## Contributing
 Contributions are welcome. Open an issue or submit a pull request with suggested improvements, additional analyses, or data cleaning steps.
+
 
 
